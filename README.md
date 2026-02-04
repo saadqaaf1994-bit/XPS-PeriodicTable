@@ -35,7 +35,7 @@ This tool is built as a Single-File Application (SPA). It requires no installati
 3. Under **Build and deployment**, select `main` from the branch dropdown and click **Save**.
 4. Your tool will be live at:
    ```
-   https://sadegh-ghorbanzadeh.github.io/XPS-PeriodicTable/
+   https://saadqaaf.github.io/XPS-PeriodicTable/
    ```
 
 ## 📊 Data Sources
